@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/cmake-build-debug

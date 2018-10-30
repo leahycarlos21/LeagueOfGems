@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Bullet.cpp
+allegro5/allegro.h
+-
+cmath
+-
+Bullet.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Bullet.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Bullet.h
+allegro5/bitmap.h
+-
+Player.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Player.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Enemy.h
+allegro5/bitmap.h
+-
+string
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Explosion.cpp
+allegro5/allegro.h
+-
+Explosion.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Explosion.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Explosion.h
+allegro5/bitmap.h
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Player.h
+allegro5/bitmap.h
+-
+allegro5/allegro_image.h
+-
+string
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Sword.cpp
+allegro5/allegro.h
+-
+Sword.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Sword.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Sword.h
+allegro5/bitmap.h
+-
+Enemy.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/Characters/Enemy.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Dijkstra.cpp
+Dijkstra.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Dijkstra.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Dijkstra.h
+iostream
+-
+stdio.h
+-
+vector
+-
+queue
+-
+
