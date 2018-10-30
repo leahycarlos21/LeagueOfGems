@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <math.h>
 #include "AStarSearch.h"
-#include "../../../../../Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Pathfinding/coordinate.h"
+#include "coordinate.h"
 
 using namespace std;
 

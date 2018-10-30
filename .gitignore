@@ -37,3 +37,5 @@
 cmake-build-debug/
 CMakeLists.txt
 *.xml
+cmake-build-debug/CMakeFiles/
+cmake-build-debug/CMakeCache.txt

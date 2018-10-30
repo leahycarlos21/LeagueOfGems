@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include "../../../../Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Pathfinding/coordinate.h"
+#include "coordinate.h"
 
 #include <iostream>
 #include <stdio.h>

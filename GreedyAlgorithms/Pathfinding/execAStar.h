@@ -7,7 +7,7 @@
 
 
 #include "MapSearchNode.h"
-#include "../../../../../Proyectos CE/Proyecto II/Proyecto 2 Repositorio Oficial/LeagueOfGems/GreedyAlgorithms/Pathfinding/coordinate.h"
+#include "coordinate.h"
 
 class execAStar {
 public:
