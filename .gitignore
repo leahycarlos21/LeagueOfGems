@@ -33,6 +33,7 @@
 *.out
 *.app
 
-cmake-build-debug
+*.make
+cmake-build-debug/
 CMakeLists.txt
 *.xml
